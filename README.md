@@ -1,2 +1,2 @@
-# Machine_Learning_classes
+# Machine-Learning
 Repositório com projetos da aula de machine learning
